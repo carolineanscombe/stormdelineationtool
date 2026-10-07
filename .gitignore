@@ -1,0 +1,12 @@
+.llm-wiki/
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+data/
+*_events_precip.csv
+*_reviewed_intervals.csv
+*_annotation_history/
+*_training_labels.zip
+*.rds
+Rplots.pdf
